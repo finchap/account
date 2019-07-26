@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "New FIAccount": {
+      "commandName": "Project",
+      "commandLineArgs": "fiaccount new --user-id myid",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "List FIAccount": {
+      "commandName": "Project",
+      "commandLineArgs": "fiaccount list",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

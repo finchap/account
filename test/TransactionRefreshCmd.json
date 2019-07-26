@@ -1,0 +1,17 @@
+{
+    "name":"RefreshTransactions",
+    "fi_account_id":"david-chapdelaineAThotmail-com-50d6c397-77ce-4b56-be51-1780931aeabf",
+    "user_id":"david_chapdelaine@hotmail.com",
+    "institution":"desjardins",
+    "days_back":"30",
+    "fi_transactional_accounts":[
+        {
+            "id":"2",
+            "unique_name":"477151-Checking"
+        },
+        {
+            "id":"3",
+            "unique_name":"5598 28** **** 4012-CreditCard"
+        }
+    ]
+}
